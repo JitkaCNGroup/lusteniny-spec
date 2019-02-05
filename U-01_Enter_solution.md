@@ -18,5 +18,6 @@
  4. **System:** system checks the codeword for the ciphers and unlocks next cipher
 
 ## Extension
-3. a) If codeword is incorrent, system shows an error
+3. Submit:
+   1. If codeword is incorrent, system shows an error
 

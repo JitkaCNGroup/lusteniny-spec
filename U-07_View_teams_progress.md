@@ -8,10 +8,12 @@
 ## Main Scenario
 
 1. **Admin:** wants to show status of the teams
-2. **System:** renders following information in a table format:
-     a. Team name
-     b. Team score
-     c. Number of solved ciphers
+
+2. **System:** renders following information in a table:
+   - Team name
+   - Team score
+   - Number of solved ciphers
+   - Total number of ciphers
     
 ## Extension
 N/A
