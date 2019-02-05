@@ -1,15 +1,17 @@
 # U-07: Manage the finish place
 **Actor:** Admin
+
 **Preconditions:** -
+
 **Postconditions:** -
 
 ## Main Scenario
 
- 1. **Admin:** wants to specify finish place
- 2. **System:** lets admin to input following data:
- 	a. Place title
-    b. Place GPS coordinates
-    c. Time when place should be available to players
+1. **Admin:** wants to specify finish place
+2. **System:** lets admin to input following data:
+     a. Place title
+     b. Place GPS coordinates
+     c. Time when place should be available to players
 3. **Admin**: fills-in the data and submits
 4. **System**: Saves the information into the system
 

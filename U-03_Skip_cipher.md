@@ -1,6 +1,8 @@
 # U-03: Skip cipher
 **Actor:** Player
+
 **Preconditions:** -
+
 **Postconditions:**
 
  - Cipher is marked as done

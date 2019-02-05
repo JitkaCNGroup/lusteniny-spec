@@ -1,6 +1,8 @@
 # U-01: Enter solution
 **Actor:** Player
+
 **Preconditions:** -
+
 **Postconditions:**
 
 - Next cipher is unlocked
