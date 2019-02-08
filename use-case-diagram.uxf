@@ -85,8 +85,8 @@ View teams progress</panel_attributes>
   <element>
     <id>UMLUseCase</id>
     <coordinates>
-      <x>470</x>
-      <y>520</y>
+      <x>910</x>
+      <y>570</y>
       <w>160</w>
       <h>60</h>
     </coordinates>
@@ -98,8 +98,8 @@ for a team</panel_attributes>
   <element>
     <id>UMLUseCase</id>
     <coordinates>
-      <x>640</x>
-      <y>520</y>
+      <x>920</x>
+      <y>500</y>
       <w>160</w>
       <h>60</h>
     </coordinates>
@@ -111,8 +111,8 @@ for a team</panel_attributes>
   <element>
     <id>UMLUseCase</id>
     <coordinates>
-      <x>810</x>
-      <y>520</y>
+      <x>920</x>
+      <y>430</y>
       <w>160</w>
       <h>60</h>
     </coordinates>
@@ -147,8 +147,8 @@ View list of ciphers</panel_attributes>
   <element>
     <id>UMLUseCase</id>
     <coordinates>
-      <x>470</x>
-      <y>600</y>
+      <x>460</x>
+      <y>590</y>
       <w>160</w>
       <h>60</h>
     </coordinates>
@@ -159,13 +159,15 @@ Manage ciphers</panel_attributes>
   <element>
     <id>UMLUseCase</id>
     <coordinates>
-      <x>650</x>
-      <y>600</y>
+      <x>690</x>
+      <y>640</y>
       <w>160</w>
       <h>60</h>
     </coordinates>
     <panel_attributes>&lt;&lt;U-12&gt;&gt;
-Manage prerequisites?</panel_attributes>
+Manage prerequisites?
+
+// Martin Balzarek pry vi jak se tomu rika</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -221,19 +223,43 @@ Manage prerequisites?</panel_attributes>
       <h>50</h>
     </coordinates>
     <panel_attributes>&lt;&lt;U-06&gt;&gt;
-View the finish place</panel_attributes>
+View the final destination</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>UMLUseCase</id>
     <coordinates>
-      <x>820</x>
-      <y>650</y>
+      <x>680</x>
+      <y>540</y>
       <w>180</w>
       <h>60</h>
     </coordinates>
     <panel_attributes>&lt;&lt;U-13&gt;&gt;
 Manage the finish place</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>650</x>
+      <y>440</y>
+      <w>160</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;U-?&gt;&gt;
+Register new team</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>870</x>
+      <y>260</y>
+      <w>130</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;U-?&gt;&gt;
+View score</panel_attributes>
     <additional_attributes/>
   </element>
 </diagram>
