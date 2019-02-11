@@ -79,7 +79,9 @@ Get hint</panel_attributes>
       <h>60</h>
     </coordinates>
     <panel_attributes>&lt;&lt;U-07&gt;&gt;
-View teams progress</panel_attributes>
+View teams progress
+
+bg=yellow</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -92,7 +94,9 @@ View teams progress</panel_attributes>
     </coordinates>
     <panel_attributes>&lt;&lt;U-08&gt;&gt;
 Mark stage as solved
-for a team</panel_attributes>
+for a team
+
+bg=yellow</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -105,7 +109,9 @@ for a team</panel_attributes>
     </coordinates>
     <panel_attributes>&lt;&lt;U-09&gt;&gt;
 Mark stage as skipped
-for a team</panel_attributes>
+for a team
+
+bg=yellow</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -117,7 +123,9 @@ for a team</panel_attributes>
       <h>60</h>
     </coordinates>
     <panel_attributes>&lt;&lt;U-10&gt;&gt;
-Give hint to a team</panel_attributes>
+Give hint to a team
+
+bg=yellow</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -153,7 +161,9 @@ View list of ciphers</panel_attributes>
       <h>60</h>
     </coordinates>
     <panel_attributes>&lt;&lt;U-11&gt;&gt;
-Manage ciphers</panel_attributes>
+Manage ciphers
+
+bg=yellow</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -235,7 +245,9 @@ View the final destination</panel_attributes>
       <h>60</h>
     </coordinates>
     <panel_attributes>&lt;&lt;U-13&gt;&gt;
-Manage the finish place</panel_attributes>
+Manage the finish place
+
+bg=yellow</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -246,8 +258,8 @@ Manage the finish place</panel_attributes>
       <w>160</w>
       <h>60</h>
     </coordinates>
-    <panel_attributes>&lt;&lt;U-?&gt;&gt;
-Register new team</panel_attributes>
+    <panel_attributes>&lt;&lt;U-14&gt;&gt;
+Manage team</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -258,8 +270,20 @@ Register new team</panel_attributes>
       <w>130</w>
       <h>60</h>
     </coordinates>
-    <panel_attributes>&lt;&lt;U-?&gt;&gt;
+    <panel_attributes>&lt;&lt;U-16&gt;&gt;
 View score</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>950</x>
+      <y>200</y>
+      <w>130</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;U-15&gt;&gt;
+View prerequisites</panel_attributes>
     <additional_attributes/>
   </element>
 </diagram>

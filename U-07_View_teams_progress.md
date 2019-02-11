@@ -12,8 +12,7 @@
 2. **System:** renders following information in a table:
    - Team name
    - Team score
-   - Number of solved ciphers
-   - Total number of ciphers
+   - Status of each cypher for each team(skipped, solved, pending) 
     
 ## Extension
 N/A
