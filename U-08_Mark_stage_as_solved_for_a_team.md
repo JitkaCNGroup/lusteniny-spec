@@ -1,4 +1,4 @@
-# U-08: Mark stage as solved for a team
+# U-08: Mark stage/cypher as solved for a team
 **Actor:** Admin
 
 **Preconditions:**
